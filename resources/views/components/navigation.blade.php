@@ -18,7 +18,7 @@
                       
                     </div>
                     <div>
-                        <a href="#contact" class="bg-secondary-800 text-white border-2 px-4 py-2 rounded-lg lg:flex items-center hidden">
+                        <a href="#contact" class="bg-secondary-800 text-white border-2 px-10 py-2 rounded-lg lg:flex items-center hidden">
                         Contact
                          </a> 
                     </div>
@@ -49,7 +49,7 @@
                             <li><a href="" class="font-bold text-2xl">A propos</a></li>
                             <li><a href="" class="font-bold text-2xl">A propos</a></li>
                             <li>
-                                <a href="#contact" class="bg-secondary-800 text-white border-2 px-4 py-2 rounded-lg items-center lg:hidden">
+                                <a href="#contact" class="bg-secondary-800 text-white  border-2 px-10 py-2 rounded-lg items-center lg:hidden">
                                     Contact
                                 </a> 
                             </li>

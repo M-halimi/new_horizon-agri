@@ -1,10 +1,10 @@
 <div>
-    <footer class="w-full bg-natural-100 py-12"> 
+    <footer class="w-full bg-natural-100 py-12 px-32"> 
         <div class="w-full mx-auto px-4 py-4">
             <div class="w-full">
                 <div class="flex flex-col lg:flex-row lg:items-center gap-4 lg:gap-20 px-4 py-4">
                     <div class="flex flex-col items-center">
-                        <img src="{{ asset('img/services/logo.png') }}" alt="logo" class="object-cover w-72">
+                        <img src="{{ asset('asset/img/services/logo.png') }}" alt="logo" class="object-cover w-72">
                         <p class="text-xs text-center">
                             Towards New Agriculture Horizon
                         </p>
@@ -37,7 +37,6 @@
                     </div>
                 </div>
             </div>
-        </div>
-        
+        </div> 
     </footer>
 </div>
