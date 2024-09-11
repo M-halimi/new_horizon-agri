@@ -86,7 +86,7 @@
     </section>
     <!-- end confiance -->
     <!-- service -->
-    <section class=" w-full lg:max-2xl px-4 mb-16">
+    <section class=" w-full lg:max-2xl px-4 ">
         <div class="flex justify-center items-center">
             <div>
                 <div class="flex items-center justify-center mt-10 md:mt-20 lg:mt-10">
@@ -104,21 +104,21 @@
                         </p>
                     </div>
                     <div class="rounded-xl w-96 h-96 flex items-end justify-center mx-auto object-cover py-8"
-                                style="background-image: url('/img/services/apropos-service2.jpeg'), linear-gradient(rgba(255,255,255,0.22), rgba(45,55,72,0.9));
+                                style="background-image: url('asset/img/services/apropos-service2.jpeg'), linear-gradient(rgba(255,255,255,0.22), rgba(45,55,72,0.9));
                                 background-blend-mode: overlay;">
                         <p class="text-white mb-4 max-w-80 text-center text-2xl">2- Proposition
                             adapté à votre projet
                         </p>
                     </div>
                     <div class="rounded-xl w-96 h-96 flex items-end justify-center mx-auto object-cover"
-                        style="background-image: url('/img/services/apropos-service3.jpeg'), linear-gradient(rgba(255,255,255,0.22), rgba(45,55,72,0.9));
+                        style="background-image: url('asset/img/services/apropos-service3.jpeg'), linear-gradient(rgba(255,255,255,0.22), rgba(45,55,72,0.9));
                               background-blend-mode: overlay;">
                         <p class="text-white mb-4 max-w-80 text-center text-2xl">4- Rélaisation
                             et prise en charge
                         </p>
                     </div>
                     <div class="rounded-xl w-96 h-96 flex items-end justify-center mx-auto object-cover"
-                        style="background-image: url('/img/services/apropos-service4.jpeg'), linear-gradient(rgba(255,255,255,0.22), rgba(45,55,72,0.9));
+                        style="background-image: url('asset/img/services/apropos-service4.jpeg'), linear-gradient(rgba(255,255,255,0.22), rgba(45,55,72,0.9));
                               background-blend-mode: overlay;">
                         <p class="text-white mb-4 max-w-80 text-center text-2xl">5- Service
                             apès vente et garanties
@@ -130,7 +130,7 @@
     </section>
     <!-- end service -->
     <!-- trouve -->
-    <section class=" relative max-w-4xl flex justify-center items-center  mx-auto  px-6 lg:max-w-7xl mt-8">
+    <section class=" relative max-w-4xl flex justify-center items-center  mx-auto  px-6 lg:max-w-7xl mt-20">
         <div class="lg:grid lg:grid-cols-2  bg-secondary-800  rounded-lg lg:max-w-max ">
             <div class="flex flex-col items-center px-4 py-4 justify-center text-center">
                 <h3 class="text-2xl text-primary-400 md:text-start lg:text-5xl">
@@ -170,7 +170,7 @@
     <!-- end tove -->
     {{-- end section --}}
     <section
-        class="relative lg:max-w-full mt-8 mx-auto bg-secondary-800 flex justify-center items-center px-4 py-20">
+        class="relative lg:max-w-full mt-20 mx-auto bg-secondary-800 flex justify-center items-center px-4 py-20">
         <div class="flex justify-center items-center">
             <div class="grid grid-cols-1 gap-4 lg:grid lg:grid-cols-2 lg:gap-10 ">
                 <div class="text-center lg:text-left">
